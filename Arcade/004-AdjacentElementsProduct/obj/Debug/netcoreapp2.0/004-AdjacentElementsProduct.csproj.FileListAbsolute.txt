@@ -1,0 +1,10 @@
+c:\Users\Maggie\source\repos\codefights\Arcade\004-AdjacentElementsProduct\bin\Debug\netcoreapp2.0\004-AdjacentElementsProduct.deps.json
+c:\Users\Maggie\source\repos\codefights\Arcade\004-AdjacentElementsProduct\bin\Debug\netcoreapp2.0\004-AdjacentElementsProduct.runtimeconfig.json
+c:\Users\Maggie\source\repos\codefights\Arcade\004-AdjacentElementsProduct\bin\Debug\netcoreapp2.0\004-AdjacentElementsProduct.runtimeconfig.dev.json
+c:\Users\Maggie\source\repos\codefights\Arcade\004-AdjacentElementsProduct\bin\Debug\netcoreapp2.0\004-AdjacentElementsProduct.dll
+c:\Users\Maggie\source\repos\codefights\Arcade\004-AdjacentElementsProduct\bin\Debug\netcoreapp2.0\004-AdjacentElementsProduct.pdb
+c:\Users\Maggie\source\repos\codefights\Arcade\004-AdjacentElementsProduct\obj\Debug\netcoreapp2.0\004-AdjacentElementsProduct.csproj.CoreCompileInputs.cache
+c:\Users\Maggie\source\repos\codefights\Arcade\004-AdjacentElementsProduct\obj\Debug\netcoreapp2.0\004-AdjacentElementsProduct.AssemblyInfoInputs.cache
+c:\Users\Maggie\source\repos\codefights\Arcade\004-AdjacentElementsProduct\obj\Debug\netcoreapp2.0\004-AdjacentElementsProduct.AssemblyInfo.cs
+c:\Users\Maggie\source\repos\codefights\Arcade\004-AdjacentElementsProduct\obj\Debug\netcoreapp2.0\004-AdjacentElementsProduct.dll
+c:\Users\Maggie\source\repos\codefights\Arcade\004-AdjacentElementsProduct\obj\Debug\netcoreapp2.0\004-AdjacentElementsProduct.pdb
